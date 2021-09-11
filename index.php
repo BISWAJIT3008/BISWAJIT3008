@@ -1,0 +1,3 @@
+<?php
+    echo 'Codekree Solution';
+?>
